@@ -61,7 +61,7 @@ pre {
   white-space: -moz-pre-wrap;
   white-space: -pre-wrap;
   white-space: -o-pre-wrap*/;
-  word-wrap: break-word;
+  /*word-wrap: break-word*/;
   background-color: rgba(0, 0, 0, 0.05);
   overflow-x: auto;    
 }
