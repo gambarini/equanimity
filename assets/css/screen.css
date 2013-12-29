@@ -56,13 +56,14 @@ pre {
   font-size: 1em;
   line-height: 1.2em;
   padding: 1em;
-  white-space: pre;
+  /*white-space: pre;
   white-space: pre-wrap;
   white-space: -moz-pre-wrap;
   white-space: -pre-wrap;
-  white-space: -o-pre-wrap;
+  white-space: -o-pre-wrap*/;
   word-wrap: break-word;
   background-color: rgba(0, 0, 0, 0.05);
+  overflow-x: auto;    
 }
 p code {
   font-family: "Consolas", Courier, monospace;
